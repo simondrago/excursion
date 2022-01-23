@@ -13,3 +13,9 @@ body {
 .calltoaction {
     color:greenyellow;
 }
+
+.heading-second {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
