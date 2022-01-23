@@ -23,3 +23,7 @@ body {
 .imagestyling {
     margin-top: 10px;
 }
+
+.imagestyling2 {
+    max-width: 100%;
+}
