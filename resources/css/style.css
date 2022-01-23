@@ -14,6 +14,11 @@ body {
     color:greenyellow;
 }
 
+.calltoaction:hover {
+    color: blueviolet;
+    transition: color 1.5s linear 0.5s;
+}
+
 .heading-second {
     font-weight: 300;
     font-size: 42px;
